@@ -11,7 +11,6 @@ public class Checkpoint : MonoBehaviour
         levelManager = FindObjectOfType<LevelManager>();
     }
 
-
     void Update()
     {
 
