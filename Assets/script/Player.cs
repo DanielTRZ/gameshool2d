@@ -55,9 +55,9 @@ public class Player : MonoBehaviour
 
         /////animacja
         anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-        //obrót postaci
+        //obrÃ³t postaci
 
-        //-->>> b³¹d
+        //-->>> bÂ³Â¹d
         if (GetComponent<Rigidbody2D>().velocity.x > 0) 
             transform.localScale = new Vector3(1f, 1f, 1f);
         
@@ -67,7 +67,6 @@ public class Player : MonoBehaviour
        
 
     }
-
-    
+  
 
 }
