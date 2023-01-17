@@ -12,7 +12,6 @@ public class LevelManager : MonoBehaviour
         player = FindObjectOfType<Player> ();
     }
 
- 
     void Update()
     { 
     }
