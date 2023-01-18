@@ -6,7 +6,6 @@ public class Player : MonoBehaviour
 {
     public float moveSpeed;
     public float jumpHeight;
-
     public Transform groundCheck;
     public float groundCheckRadius;
     public LayerMask WhatIsGround;
