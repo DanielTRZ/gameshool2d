@@ -64,7 +64,6 @@ public class Player : MonoBehaviour
         else if (GetComponent<Rigidbody2D>().velocity.x < 0) 
             transform.localScale = new Vector3(-1f,1f,1f) ;
        
-
     }
   
 }
