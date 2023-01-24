@@ -36,6 +36,5 @@ public class ScoreMenager : MonoBehaviour
             PlayerPrefs.SetInt("Rekord", score);
         }
 
-
     }
 }
