@@ -12,7 +12,6 @@ public class Diament : MonoBehaviour
 
 
 
-
     void Update()
     {
      //   if (increase)
