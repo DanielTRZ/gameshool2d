@@ -23,6 +23,5 @@ public class Die : MonoBehaviour
         {
             levelManager.RespawnPlayer();
         }
-       
     }
 }
