@@ -10,7 +10,6 @@ public class Die : MonoBehaviour
        levelManager = FindObjectOfType<LevelManager> ();
     }
 
-
     // Update is called once per frame
     void Update()
     {
