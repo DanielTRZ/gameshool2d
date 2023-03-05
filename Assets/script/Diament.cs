@@ -9,7 +9,6 @@ public class Diament : MonoBehaviour
    // float x = 1f;
     bool increase;
 
-
     void Update()
     {
      //   if (increase)
