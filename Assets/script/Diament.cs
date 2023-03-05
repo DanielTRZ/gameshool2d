@@ -43,7 +43,6 @@ public class Diament : MonoBehaviour
 
             ScoreMenager.instance.AddPoint();
 
-
         }
     }
 }
