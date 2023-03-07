@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Diament : MonoBehaviour
 {
-
     [SerializeField] float speed;
    // float x = 1f;
     bool increase;
