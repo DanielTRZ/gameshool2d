@@ -30,7 +30,6 @@ public class Diament : MonoBehaviour
        //         transform.localScale = new Vector3(x, 1f, 1f);
       //      }
       //  }
-
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
