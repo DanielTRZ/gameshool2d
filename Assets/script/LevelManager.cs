@@ -16,7 +16,6 @@ public class LevelManager : MonoBehaviour
     {
     
     }
-    
      public void RespawnPlayer()
     {
         Debug.Log("Player Respawn");
