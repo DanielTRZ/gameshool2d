@@ -40,7 +40,6 @@ public class Diament : MonoBehaviour
             Destroy(collision.gameObject);
 
             ScoreMenager.instance.AddPoint();
-
         }
     }
 }
