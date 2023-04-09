@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
         if (grouned)
             doubleJump = false;
         anim.SetBool("Grounded",grouned);
-     /////////--jump 
+      /////////--jump 
         if(Input.GetKeyDown(KeyCode.Space) && grouned)
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(0, jumpHeight);
